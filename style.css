@@ -17,6 +17,8 @@ h1{
 
 .foodies{
     width: 50%;
+    
+
 
 }
 .food-fusion{
@@ -34,7 +36,7 @@ h1{
 .web-banner{
     background-image: url(image/Frame\ 58.jpg);
     background-repeat: no-repeat;
-    background-size: 1400px;
+    background-size: cover;
     margin-left: 0%;
     margin-right: 0%;
     padding: 0%;
@@ -42,4 +44,42 @@ h1{
 }
 .spices{
     text-align: center;
+}
+#special-recipe{
+    border-left: 5px ;
+    border-image-slice: 2;
+}
+.spicy{
+    width: 33%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 10px;
+   
+}
+.ingredient{
+    color: rgb(205, 50, 76);
+}
+.recipe-name{
+    box-shadow: 10px 10px  50px lightslategrey;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1%;
+}
+
+img{
+    border-radius: 10%;
+
+    
+}
+#footer{
+    color:white;
+    text-align: center;
+    background-color: black;
+}
+#footer-span{
+    color:tomato;
 }
