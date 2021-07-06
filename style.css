@@ -32,11 +32,14 @@ h1{
     color: rgb(245, 251, 252);
 }
 .web-banner{
-    background-image: url(image/Frame\ 59.jpg);
+    background-image: url(image/Frame\ 58.jpg);
     background-repeat: no-repeat;
-   background-size: 1500px;
+    background-size: 1400px;
     margin-left: 0%;
     margin-right: 0%;
     padding: 0%;
     
+}
+.spices{
+    text-align: center;
 }
